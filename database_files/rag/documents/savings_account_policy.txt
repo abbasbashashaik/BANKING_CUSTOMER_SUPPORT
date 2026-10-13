@@ -1,0 +1,322 @@
+SAVINGS ACCOUNT POLICY
+
+Document Type: Savings Account Policy
+Document ID: SAV-001
+Version: 2.0
+Effective Date: January 1, 2026
+Last Reviewed: January 1, 2026
+
+==================================================
+1. OVERVIEW
+==================================================
+
+A savings account is a deposit account designed for customers who want to
+deposit, hold, withdraw, and transfer money while earning interest on eligible
+balances.
+
+The bank offers several savings account variants. Each product may have
+different minimum balance requirements, transaction limits, interest rates,
+and fees.
+
+The terms in this document apply to the Standard Savings Account unless
+otherwise stated.
+
+==================================================
+2. ELIGIBILITY
+==================================================
+
+An individual who is at least 18 years old may apply for a Standard Savings
+Account, subject to the bank's account-opening requirements.
+
+Joint accounts may be opened subject to the bank's permitted operating
+instructions.
+
+Minor accounts may be opened under a guardian arrangement where permitted.
+
+The bank may decline an application if required information or documentation
+is not provided or if the application does not satisfy applicable
+requirements.
+
+==================================================
+3. REQUIRED DOCUMENTS
+==================================================
+
+Customers may be required to provide:
+
+- Government-issued identity proof
+- Address proof
+- Recent photograph, where applicable
+- Tax identification information, where applicable
+- Mobile number
+- Email address, where applicable
+- Additional documents required for regulatory or risk purposes
+
+The bank may request updated documents periodically.
+
+==================================================
+4. MINIMUM BALANCE
+==================================================
+
+The Standard Savings Account requires an average monthly balance of
+INR 5,000.
+
+The average monthly balance is calculated according to the bank's applicable
+calculation method.
+
+If the required balance is not maintained, a non-maintenance charge may
+apply.
+
+Customers should refer to the current Schedule of Charges for the applicable
+fee.
+
+Some account variants may have zero-balance or lower-balance requirements.
+
+==================================================
+5. ACCOUNT OPENING
+==================================================
+
+Accounts may be opened through supported branches or approved digital
+account-opening channels.
+
+Digital account opening may require identity verification, mobile
+authentication, video verification, or other verification procedures.
+
+The account becomes operational only after all required verification steps
+are successfully completed.
+
+==================================================
+6. INTEREST
+==================================================
+
+Interest is calculated based on the eligible daily closing balance.
+
+Interest is credited to the account at the frequency specified for the
+applicable savings product.
+
+Interest rates may change from time to time.
+
+The applicable interest rate is determined by the bank's current rate schedule.
+
+Customers should not assume that the interest rate at account opening will
+remain unchanged throughout the life of the account.
+
+==================================================
+7. CASH DEPOSITS
+==================================================
+
+Customers may deposit cash through supported branches, cash deposit machines,
+or other approved channels.
+
+Cash transactions may be subject to transaction limits, verification
+requirements, and applicable charges.
+
+Large or unusual transactions may require additional information or
+documentation.
+
+==================================================
+8. CASH WITHDRAWALS
+==================================================
+
+Customers may withdraw funds through branches, ATMs, or other approved
+channels.
+
+Withdrawals are subject to available account balance, transaction limits,
+security checks, and applicable restrictions.
+
+ATM withdrawals may have daily limits.
+
+Branch withdrawals may require identity verification.
+
+==================================================
+9. ATM TRANSACTIONS
+==================================================
+
+Customers may use their eligible debit card at supported ATMs.
+
+ATM transactions may include:
+
+- Cash withdrawal
+- Balance inquiry
+- PIN change
+- Mini statement
+- Other services supported by the ATM
+
+Free transaction limits may apply.
+
+Transactions beyond the permitted free limit may attract charges.
+
+==================================================
+10. DEBIT CARD
+==================================================
+
+Eligible savings account customers may receive a debit card.
+
+The card may be used for:
+
+- ATM withdrawals
+- Point-of-sale purchases
+- Online purchases
+- Contactless payments where supported
+
+The customer must protect the card and authentication credentials.
+
+Customers must not share their PIN or other confidential authentication
+information.
+
+==================================================
+11. LOST OR STOLEN DEBIT CARD
+==================================================
+
+A lost or stolen debit card should be reported immediately.
+
+The bank may block the card after receiving the request.
+
+The customer may request a replacement card.
+
+Replacement fees may apply depending on the circumstances and current
+Schedule of Charges.
+
+Customers should review recent transactions after losing a card and report
+any unauthorized activity immediately.
+
+==================================================
+12. DIGITAL BANKING
+==================================================
+
+Customers may access their accounts through supported online and mobile
+banking services.
+
+Digital banking may allow customers to:
+
+- View balances
+- View transactions
+- Transfer funds
+- Download statements
+- Manage beneficiaries
+- Manage cards
+- Update selected contact information
+- Make eligible bill payments
+
+Availability of individual features may vary.
+
+==================================================
+13. FUND TRANSFERS
+==================================================
+
+Customers may transfer money using supported domestic payment systems.
+
+Transfer methods may have different:
+
+- Processing times
+- Transaction limits
+- Fees
+- Availability windows
+
+A transfer may be delayed because of technical issues, beneficiary problems,
+bank holidays, compliance checks, or incorrect transaction information.
+
+==================================================
+14. BENEFICIARIES
+==================================================
+
+Customers may add beneficiaries through supported banking channels.
+
+Additional authentication may be required before a beneficiary becomes
+active.
+
+Some beneficiary additions may be subject to a cooling-off period.
+
+Customers should verify beneficiary details before initiating a transfer.
+
+==================================================
+15. ACCOUNT STATEMENTS
+==================================================
+
+Customers may obtain statements through digital banking, ATMs, branches, or
+other supported channels.
+
+Statements may include:
+
+- Transaction date
+- Transaction description
+- Debit amount
+- Credit amount
+- Running balance
+
+Electronic statements may be free while physical or duplicate statements
+may attract a fee.
+
+==================================================
+16. TRANSACTION DISPUTES
+==================================================
+
+Customers should report unauthorized or disputed transactions as soon as
+possible.
+
+The bank may request:
+
+- Transaction details
+- Account information
+- Customer identification
+- Supporting documents
+- A written dispute declaration
+
+The bank will investigate the dispute according to its applicable process.
+
+The outcome of an investigation depends on transaction details and available
+evidence.
+
+==================================================
+17. NOMINATION
+==================================================
+
+Eligible customers may register a nominee for their account according to
+applicable procedures.
+
+Customers should review nominee information periodically and update it when
+necessary.
+
+==================================================
+18. ACCOUNT INACTIVITY
+==================================================
+
+An account with no qualifying customer-initiated activity for an extended
+period may be classified as inactive or dormant according to applicable
+rules.
+
+Customers may be required to complete additional verification before
+reactivating such an account.
+
+==================================================
+19. ACCOUNT CLOSURE
+==================================================
+
+Customers may request account closure through an approved channel.
+
+Before closure:
+
+- Outstanding charges must generally be settled.
+- Pending transactions should be resolved.
+- Any linked services may need to be cancelled.
+- Remaining balance must be transferred or withdrawn according to the bank's
+  closure process.
+
+==================================================
+20. CONTACT INFORMATION
+==================================================
+
+Customers should keep their registered mobile number, email address, and
+address up to date.
+
+Incorrect contact information may prevent important notifications from
+reaching the customer.
+
+==================================================
+21. POLICY CHANGES
+==================================================
+
+The bank may modify product terms, interest rates, limits, and charges.
+Changes will be communicated through applicable customer communication
+channels where required.
+
+The latest applicable terms take precedence over older versions.

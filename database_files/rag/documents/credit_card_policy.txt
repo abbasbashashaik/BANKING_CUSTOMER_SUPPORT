@@ -1,0 +1,244 @@
+CREDIT CARD POLICY
+
+Document Type: Credit Card Policy
+Document ID: CARD-001
+Version: 2.0
+Effective Date: January 1, 2026
+
+==================================================
+1. OVERVIEW
+==================================================
+
+A credit card provides access to a revolving credit facility up to an
+approved credit limit.
+
+Use of the card is subject to the cardholder agreement, applicable fees,
+credit limit, transaction restrictions, and security requirements.
+
+==================================================
+2. ELIGIBILITY
+==================================================
+
+Applicants must satisfy the bank's applicable eligibility requirements.
+
+Eligibility may depend on:
+
+- Age
+- Income
+- Credit history
+- Employment
+- Existing obligations
+- Internal risk criteria
+
+Approval is subject to the bank's credit assessment.
+
+==================================================
+3. CREDIT LIMIT
+==================================================
+
+Each approved cardholder receives a credit limit.
+
+The available credit decreases when transactions are posted and generally
+increases after eligible payments are credited.
+
+The bank may periodically review the credit limit.
+
+==================================================
+4. AVAILABLE CREDIT
+==================================================
+
+Available credit is generally calculated based on the approved limit less
+applicable outstanding amounts and pending transactions.
+
+A transaction may be declined if it exceeds available credit or is blocked
+for security or other reasons.
+
+==================================================
+5. BILLING CYCLE
+==================================================
+
+Transactions are grouped into billing cycles.
+
+At the end of each billing cycle, a statement is generated.
+
+The statement may include:
+
+- Total amount due
+- Minimum amount due
+- Payment due date
+- Transaction history
+- Fees
+- Interest
+- Credits and payments
+
+==================================================
+6. PAYMENT DUE DATE
+==================================================
+
+Customers must make at least the required minimum payment by the due date.
+
+Paying the total amount due may help avoid applicable interest on eligible
+purchases subject to the card agreement.
+
+==================================================
+7. MINIMUM PAYMENT
+==================================================
+
+The minimum payment is the minimum amount the customer must pay by the due
+date to keep the account current.
+
+Paying only the minimum amount may result in interest being charged on the
+remaining balance.
+
+==================================================
+8. INTEREST
+==================================================
+
+Interest may apply to unpaid balances according to the cardholder agreement.
+
+Different transaction types may be treated differently.
+
+For example, cash advances may have separate interest and fee rules.
+
+==================================================
+9. CASH ADVANCE
+==================================================
+
+Eligible cardholders may withdraw cash using supported channels.
+
+Cash advances may attract:
+
+- Cash advance fees
+- Interest from the applicable transaction date
+- ATM charges
+
+Cash advances may not receive the same interest-free treatment as eligible
+purchase transactions.
+
+==================================================
+10. FEES
+==================================================
+
+Potential credit card fees include:
+
+- Annual fee
+- Replacement card fee
+- Late payment fee
+- Cash advance fee
+- Foreign transaction fee
+- Over-limit fee, where applicable
+- Other service charges
+
+The actual applicable fee depends on the card product and current
+Schedule of Charges.
+
+==================================================
+11. OVERDUE PAYMENTS
+==================================================
+
+A payment that is not received by the due date may result in:
+
+- Late payment charges
+- Additional interest
+- Suspension of certain card privileges
+- Negative credit reporting where applicable
+
+Repeated overdue payments may result in further action.
+
+==================================================
+12. LOST OR STOLEN CARD
+==================================================
+
+Customers must immediately report a lost or stolen card.
+
+The bank may block the card to prevent further transactions.
+
+A replacement card may be issued after verification.
+
+Customers should review transactions and report unauthorized transactions
+promptly.
+
+==================================================
+13. UNAUTHORIZED TRANSACTIONS
+==================================================
+
+Customers should immediately notify the bank when they identify a transaction
+they did not authorize.
+
+The bank may temporarily block the card and investigate the transaction.
+
+Customers may be required to provide additional information or complete a
+dispute form.
+
+==================================================
+14. CARD SECURITY
+==================================================
+
+Customers must:
+
+- Keep the physical card secure.
+- Keep the PIN confidential.
+- Never share OTPs or authentication codes.
+- Avoid entering card details on suspicious websites.
+- Report suspected fraud immediately.
+
+Bank employees will not normally require customers to disclose confidential
+authentication credentials.
+
+==================================================
+15. CONTACTLESS PAYMENTS
+==================================================
+
+Contactless payments may be available on eligible cards.
+
+Certain transaction values may require additional authentication according
+to applicable payment-network rules.
+
+==================================================
+16. INTERNATIONAL TRANSACTIONS
+==================================================
+
+International transactions may be subject to:
+
+- Foreign exchange conversion
+- Foreign transaction fees
+- Applicable taxes
+- Merchant or network charges
+
+The final amount may differ from the original foreign-currency amount due
+to exchange-rate conversion.
+
+==================================================
+17. CARD CANCELLATION
+==================================================
+
+A cardholder may request card cancellation.
+
+Outstanding balances and applicable charges remain payable after cancellation.
+
+Cancellation of the card does not automatically cancel an outstanding debt.
+
+==================================================
+18. CREDIT LIMIT REVIEW
+==================================================
+
+The bank may review a customer's credit limit based on payment behavior,
+income information, account history, and internal criteria.
+
+An increase is not guaranteed.
+
+==================================================
+19. DISPUTED TRANSACTIONS
+==================================================
+
+Customers should report disputed transactions as soon as possible.
+
+The bank may investigate merchant information, transaction records,
+authentication details, and other available evidence.
+
+==================================================
+20. POLICY CHANGES
+==================================================
+
+The bank may modify credit card fees, limits, features, and terms subject to
+the cardholder agreement and applicable requirements.

@@ -1,0 +1,249 @@
+LOAN POLICY
+
+Document Type: Loan Policy
+Document ID: LOAN-001
+Version: 2.0
+Effective Date: January 1, 2026
+
+==================================================
+1. OVERVIEW
+==================================================
+
+The bank provides loans to eligible customers subject to credit assessment,
+product-specific requirements, documentation, and applicable lending
+criteria.
+
+Loan products may include:
+
+- Personal loans
+- Home loans
+- Vehicle loans
+- Education loans
+- Other approved lending products
+
+Specific terms differ by product.
+
+==================================================
+2. ELIGIBILITY
+==================================================
+
+Loan eligibility may depend on:
+
+- Age
+- Income
+- Employment status
+- Length of employment
+- Credit history
+- Existing liabilities
+- Repayment capacity
+- Debt-to-income ratio
+- Requested loan amount
+- Loan purpose
+- Collateral, where applicable
+
+Meeting minimum eligibility criteria does not guarantee loan approval.
+
+==================================================
+3. APPLICATION
+==================================================
+
+A customer may apply through an approved branch, digital channel, or other
+application channel supported by the bank.
+
+The application must contain accurate and complete information.
+
+Providing false or misleading information may result in rejection or other
+action under the loan agreement.
+
+==================================================
+4. DOCUMENTS
+==================================================
+
+Depending on the loan type, the bank may request:
+
+- Identity proof
+- Address proof
+- Income proof
+- Salary slips
+- Bank statements
+- Tax documents
+- Employment documents
+- Business documents
+- Property documents
+- Vehicle documents
+- Educational documents
+- Other supporting information
+
+Additional documents may be requested during underwriting.
+
+==================================================
+5. CREDIT ASSESSMENT
+==================================================
+
+The bank assesses an applicant's ability and willingness to repay.
+
+Factors may include:
+
+- Credit history
+- Existing loans
+- Repayment history
+- Income stability
+- Existing monthly obligations
+- Requested loan amount
+- Loan tenure
+
+Credit assessment does not rely solely on a single factor.
+
+==================================================
+6. LOAN AMOUNT
+==================================================
+
+The approved loan amount depends on the applicant's eligibility and the
+specific product.
+
+The requested amount may be reduced if the bank determines that the requested
+amount exceeds the customer's repayment capacity.
+
+==================================================
+7. INTEREST RATE
+==================================================
+
+Loans may have fixed or variable interest rates.
+
+A fixed-rate loan generally maintains the applicable rate according to the
+loan agreement for the specified period.
+
+A variable-rate loan may change based on the applicable benchmark and
+contractual terms.
+
+The applicable interest rate will be specified in the loan documentation.
+
+==================================================
+8. LOAN TENURE
+==================================================
+
+Loan tenure depends on the product and approved terms.
+
+A longer tenure may reduce the scheduled installment but may increase the
+total interest paid over the life of the loan.
+
+A shorter tenure may result in higher periodic installments but may reduce
+the overall interest cost.
+
+==================================================
+9. EMI
+==================================================
+
+For loans using an equated installment structure, the periodic installment
+may include principal and interest components.
+
+The installment amount depends on:
+
+- Principal
+- Interest rate
+- Tenure
+- Repayment structure
+
+Customers should refer to the repayment schedule provided with the loan.
+
+==================================================
+10. REPAYMENT
+==================================================
+
+Repayments must be made according to the repayment schedule.
+
+Customers are responsible for ensuring that sufficient funds are available
+for automatic repayment where such a facility is used.
+
+==================================================
+11. MISSED PAYMENTS
+==================================================
+
+Failure to make a scheduled payment by the due date may result in:
+
+- Late-payment charges
+- Additional interest or applicable charges
+- Collection activity
+- Negative impact on credit history
+
+Repeated missed payments may lead to default.
+
+==================================================
+12. DEFAULT
+==================================================
+
+A loan may be classified as being in default according to the applicable
+loan agreement and regulatory requirements.
+
+The bank may take recovery action permitted under the agreement and applicable
+law.
+
+For secured loans, the bank may have rights relating to the pledged or
+mortgaged asset subject to applicable law and contractual terms.
+
+==================================================
+13. PREPAYMENT
+==================================================
+
+Customers may request partial or full prepayment.
+
+Prepayment terms depend on the product, loan agreement, and applicable
+regulations.
+
+A prepayment charge may apply to certain loan products or circumstances.
+
+Customers should request a foreclosure or prepayment statement before making
+a large payment intended to close the loan.
+
+==================================================
+14. PART-PREPAYMENT
+==================================================
+
+A customer may request to make a partial prepayment where permitted.
+
+Depending on the product, the customer may be able to:
+
+- Reduce the outstanding principal
+- Reduce the loan tenure
+- Reduce the periodic installment
+
+The available option depends on the loan agreement and bank procedures.
+
+==================================================
+15. LOAN CLOSURE
+==================================================
+
+A loan is closed after all required amounts have been paid and the bank has
+completed the applicable closure process.
+
+For secured loans, release of security or related documents may require
+additional processing.
+
+==================================================
+16. LOAN STATEMENT
+==================================================
+
+Customers may request a loan statement showing information such as:
+
+- Outstanding principal
+- Interest charged
+- Payments received
+- Upcoming installments
+- Remaining tenure
+- Applicable charges
+
+==================================================
+17. CHANGE IN CUSTOMER INFORMATION
+==================================================
+
+Borrowers should notify the bank when there is a material change in contact
+information, employment, or other information required under the loan
+agreement.
+
+==================================================
+18. POLICY CHANGES
+==================================================
+
+The bank may update lending criteria, interest rates, fees, documentation
+requirements, and product conditions subject to applicable agreements and
+regulatory requirements.

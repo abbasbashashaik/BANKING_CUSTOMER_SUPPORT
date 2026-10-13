@@ -1,0 +1,158 @@
+ACCOUNT CHARGES
+
+Document Type: Account Charges and Fees
+Document ID: FEE-001
+Version: 2.0
+Effective Date: January 1, 2026
+
+==================================================
+1. PURPOSE
+==================================================
+
+This document describes common charges that may apply to banking products.
+
+Actual charges depend on the customer's product, transaction type, channel,
+account status, and applicable Schedule of Charges.
+
+==================================================
+2. SAVINGS ACCOUNT CHARGES
+==================================================
+
+Possible charges include:
+
+- Minimum balance non-maintenance fee
+- Physical statement fee
+- Duplicate statement fee
+- Cheque book fee
+- Debit card replacement fee
+- Certain cash transaction fees
+- Certain transfer fees
+
+==================================================
+3. ATM CHARGES
+==================================================
+
+Customers may receive a specified number of free ATM transactions depending
+on their account and applicable rules.
+
+Transactions beyond the applicable free limit may incur charges.
+
+Different charges may apply for:
+
+- Cash withdrawals
+- Balance inquiries
+- Other ATM services
+
+==================================================
+4. DEBIT CARD FEES
+==================================================
+
+Possible debit card charges include:
+
+- Card issuance fee
+- Annual fee
+- Replacement fee
+- International transaction charges
+- Certain ATM charges
+
+Fees vary by card type.
+
+==================================================
+5. FUND TRANSFER FEES
+==================================================
+
+Transfer fees may depend on:
+
+- Transfer method
+- Amount
+- Destination
+- Transaction type
+- Domestic or international status
+- Channel used
+
+Some transfers may be free while others may incur charges.
+
+==================================================
+6. FAILED TRANSACTIONS
+==================================================
+
+A failed or returned transaction may attract a fee where permitted by the
+applicable product terms.
+
+Examples include certain failed payment instructions or returned payment
+transactions.
+
+==================================================
+7. LOAN FEES
+==================================================
+
+Loan-related fees may include:
+
+- Processing fee
+- Documentation fee
+- Prepayment charge where applicable
+- Late-payment charge
+- Statement fee
+- Other product-specific fees
+
+==================================================
+8. CREDIT CARD FEES
+==================================================
+
+Credit card charges may include:
+
+- Annual fee
+- Late payment fee
+- Cash advance fee
+- Foreign transaction fee
+- Replacement card fee
+- Other card-specific charges
+
+==================================================
+9. TAXES
+==================================================
+
+Applicable taxes and government levies may be charged in addition to banking
+fees.
+
+==================================================
+10. FEE WAIVERS
+==================================================
+
+Certain customers or products may qualify for fee waivers.
+
+A waiver may depend on:
+
+- Account type
+- Balance maintained
+- Transaction volume
+- Relationship with the bank
+- Promotional terms
+
+A fee waiver for one transaction does not necessarily apply to future
+transactions.
+
+==================================================
+11. FEE DISPUTES
+==================================================
+
+Customers who believe a fee was incorrectly charged may contact the bank
+through an approved service channel.
+
+The customer should provide:
+
+- Account information
+- Transaction date
+- Charge amount
+- Description of the disputed fee
+
+The bank may review the transaction and applicable terms.
+
+==================================================
+12. CHANGES TO FEES
+==================================================
+
+Fees may change over time.
+
+Customers should refer to the latest applicable Schedule of Charges before
+initiating a chargeable transaction.

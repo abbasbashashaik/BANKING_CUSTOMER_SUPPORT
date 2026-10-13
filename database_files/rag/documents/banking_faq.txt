@@ -1,0 +1,321 @@
+BANKING FREQUENTLY ASKED QUESTIONS
+
+Document Type: Banking FAQ
+Document ID: FAQ-001
+Version: 2.0
+Effective Date: January 1, 2026
+
+==================================================
+ACCOUNT OPENING
+==================================================
+
+Q: How do I open a savings account?
+
+A: Complete the bank's account-opening process and provide the required
+identity, address, and other requested information. Additional verification
+may be required.
+
+Q: What documents are needed to open an account?
+
+A: Depending on the account and customer profile, identity proof, address
+proof, photograph, tax information, mobile number, and other documents may
+be required.
+
+Q: Can I open a joint account?
+
+A: Joint accounts may be available subject to the bank's account-opening
+rules and permitted operating instructions.
+
+Q: Can a minor open a savings account?
+
+A: Minor accounts may be available under a guardian arrangement subject to
+applicable requirements.
+
+==================================================
+BALANCE AND INTEREST
+==================================================
+
+Q: What is the minimum balance?
+
+A: The Standard Savings Account has an average monthly balance requirement of
+INR 5,000. Other account products may have different requirements.
+
+Q: What happens if I do not maintain the minimum balance?
+
+A: A non-maintenance charge may apply according to the applicable Schedule
+of Charges.
+
+Q: How is savings account interest calculated?
+
+A: Interest is calculated using the eligible daily closing balance and is
+credited according to the applicable product terms.
+
+Q: Can the interest rate change?
+
+A: Yes. Savings account interest rates may be changed by the bank.
+
+==================================================
+CASH AND ATM
+==================================================
+
+Q: How can I withdraw cash?
+
+A: Cash may generally be withdrawn through eligible ATMs or branches, subject
+to applicable limits and verification.
+
+Q: Is there an ATM withdrawal limit?
+
+A: Yes. ATM withdrawal limits may apply based on the card and account type.
+
+Q: Are ATM transactions free?
+
+A: Customers may receive a specified number of free transactions. Additional
+transactions may incur applicable charges.
+
+Q: What should I do if an ATM did not dispense cash but my account was
+debited?
+
+A: Report the transaction to the bank promptly with the ATM location,
+transaction date, approximate time, and amount. The bank will investigate
+the transaction.
+
+==================================================
+DEBIT CARD
+==================================================
+
+Q: What should I do if I lose my debit card?
+
+A: Report the card as lost or stolen immediately so that the bank can block
+the card and help arrange a replacement.
+
+Q: Can I get a replacement debit card?
+
+A: Replacement cards may be issued after verification. A replacement fee
+may apply.
+
+Q: Should I share my PIN with bank employees?
+
+A: No. Customers should never disclose their PIN or other confidential
+authentication credentials.
+
+==================================================
+TRANSFERS
+==================================================
+
+Q: How can I transfer money?
+
+A: Customers may use supported electronic transfer channels, mobile banking,
+online banking, branches, or other approved methods.
+
+Q: Why is my transfer pending?
+
+A: A transfer may remain pending because of processing delays, technical
+issues, beneficiary activation requirements, compliance checks, incorrect
+details, or other operational reasons.
+
+Q: What happens if I enter the wrong beneficiary details?
+
+A: Incorrect beneficiary information can cause a transaction to fail or,
+depending on the circumstances, result in funds being sent to an unintended
+recipient. Customers should verify beneficiary details before confirming
+transactions.
+
+Q: Can I cancel a transfer?
+
+A: Cancellation depends on the transfer status and payment method. Contact
+the bank immediately if a transfer needs to be stopped.
+
+==================================================
+LOANS
+==================================================
+
+Q: How do I apply for a loan?
+
+A: Submit an application and the documents required for the relevant loan
+product. The bank will assess eligibility and repayment capacity.
+
+Q: Is loan approval guaranteed?
+
+A: No. Approval depends on the bank's credit assessment and applicable
+eligibility criteria.
+
+Q: What affects loan eligibility?
+
+A: Factors may include income, employment, credit history, existing debt,
+repayment capacity, loan amount, tenure, and product-specific criteria.
+
+Q: What happens if I miss an EMI?
+
+A: A missed payment may result in applicable charges and may negatively
+affect your credit history.
+
+Q: Can I prepay my loan?
+
+A: Partial or full prepayment may be available depending on the loan
+agreement and applicable rules.
+
+Q: Can I reduce my EMI after making a part-prepayment?
+
+A: Depending on the loan product, a customer may be able to reduce the EMI
+or reduce the remaining tenure. The available option depends on the loan
+terms and bank process.
+
+Q: How do I close my loan?
+
+A: Request a foreclosure or closure statement, pay the required outstanding
+amount, and complete the bank's loan-closure process.
+
+==================================================
+CREDIT CARDS
+==================================================
+
+Q: What is a credit limit?
+
+A: A credit limit is the maximum outstanding credit facility available on
+the card under the applicable terms.
+
+Q: What is available credit?
+
+A: Available credit is generally the unused portion of the approved credit
+limit after considering applicable outstanding and pending transactions.
+
+Q: What is the minimum amount due?
+
+A: It is the minimum amount that must be paid by the payment due date to
+keep the card account current.
+
+Q: Is paying the minimum amount enough?
+
+A: Paying the minimum amount may keep the account from becoming overdue,
+but the remaining balance may continue to attract applicable interest and
+charges.
+
+Q: What happens if I miss a credit card payment?
+
+A: Late payment charges and additional interest may apply, and repeated
+overdue payments may affect credit history.
+
+Q: What should I do if my credit card is stolen?
+
+A: Contact the bank immediately to block the card and report any transactions
+you do not recognize.
+
+Q: Can I use my credit card internationally?
+
+A: International use may be available subject to card settings, merchant
+acceptance, transaction limits, foreign exchange conversion, and applicable
+fees.
+
+==================================================
+FEES
+==================================================
+
+Q: Why was I charged a banking fee?
+
+A: Fees may apply for services such as minimum balance non-maintenance,
+ATM usage beyond applicable free limits, card replacement, statements,
+transfers, or other services.
+
+Q: Can a banking fee be reversed?
+
+A: A fee may be reviewed if the customer believes it was incorrectly charged.
+Any reversal or waiver is subject to the bank's applicable rules.
+
+Q: Where can I find current fees?
+
+A: Customers should refer to the latest applicable Schedule of Charges.
+
+==================================================
+SECURITY AND FRAUD
+==================================================
+
+Q: What should I do if I see an unauthorized transaction?
+
+A: Contact the bank immediately through an approved channel and report the
+transaction. The bank may block the relevant card or account access and
+investigate the transaction.
+
+Q: Should I share an OTP with anyone?
+
+A: No. Customers should not share OTPs, PINs, passwords, CVVs, or other
+authentication credentials with anyone.
+
+Q: What if someone claiming to be from the bank asks for my password?
+
+A: Do not disclose the password. End the communication and contact the bank
+using an official customer-service channel.
+
+Q: How can I protect myself from phishing?
+
+A: Avoid suspicious links, verify the website address before entering
+credentials, never disclose authentication codes, and contact the bank if
+you suspect fraud.
+
+==================================================
+ACCOUNT STATEMENTS
+==================================================
+
+Q: How can I get my account statement?
+
+A: Statements may be available through mobile banking, online banking,
+branches, ATMs, or other supported channels.
+
+Q: Can I get an old statement?
+
+A: Historical statements may be available subject to the bank's record
+retention and statement-request procedures. A fee may apply for some
+physical or duplicate statements.
+
+==================================================
+ACCOUNT CLOSURE
+==================================================
+
+Q: How do I close my savings account?
+
+A: Submit an account-closure request through an approved channel and settle
+any applicable outstanding charges or transactions.
+
+Q: Can I close an account with a negative balance?
+
+A: Outstanding amounts generally need to be settled before the account can
+be fully closed.
+
+==================================================
+COMPLAINTS
+==================================================
+
+Q: How do I file a banking complaint?
+
+A: Customers should first contact the bank through an approved customer
+service channel and provide sufficient details about the issue.
+
+Q: What information should I include in a complaint?
+
+A: Include the relevant account or transaction reference, date, amount,
+description of the issue, and supporting information where appropriate.
+
+Q: What if I am not satisfied with the response?
+
+A: Customers may escalate the complaint through the bank's designated
+grievance process and, where applicable, the relevant external dispute or
+regulatory mechanism.
+
+==================================================
+GENERAL
+==================================================
+
+Q: Can bank policies change?
+
+A: Yes. Product terms, interest rates, fees, limits, and procedures may
+change subject to applicable agreements and requirements.
+
+Q: Which document applies if two documents have different information?
+
+A: The latest applicable product agreement, official schedule, or policy
+normally takes precedence over an older document. Customers should contact
+the bank for clarification when there is a conflict.
+
+Q: Are these FAQ answers a substitute for the account agreement?
+
+A: No. The applicable account, loan, or card agreement contains the
+binding terms for the customer's specific product.
